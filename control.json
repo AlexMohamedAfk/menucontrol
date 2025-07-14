@@ -2,7 +2,7 @@
   "Main": true,
   "Visuals": true,
   "Aiming": true,
-  "Memory": false,
+  "Memory": true,
   "Settings": true,
-  "Configs": false
+  "Configs": true
 }
