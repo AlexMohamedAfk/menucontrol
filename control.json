@@ -4,5 +4,6 @@
   "Aiming": true,
   "Memory": true,
   "Settings": true,
-  "Configs": true
+  "Configs": true,
+  "maintenance": false
 }
