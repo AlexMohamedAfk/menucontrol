@@ -5,5 +5,5 @@
   "Memory": true,
   "Settings": true,
   "Configs": true,
-  "maintenance": true
+  "maintenance": false
 }
